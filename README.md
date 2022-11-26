@@ -1,1 +1,1 @@
-# Ensamble-ML-for-CMBSE
+# Ensemble-ML-for-CMBSE
